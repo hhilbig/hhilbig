@@ -2,6 +2,8 @@
 
 Hi, I am an assistant professor at UC Davis. Below is some information on replication files and data that are available on my GitHub.
 
+If you have any questions about these or want to discuss research, please contact me at <hhilbig@ucdavis.edu>.
+
 ### Replication files
 
 - [Project on rent control](https://github.com/hhilbig/hhv_rent_control_replication), with Anselm Hager, Robert Vief
