@@ -1,16 +1,15 @@
-## Hi there 👋
+## Replication files and data
 
-<!--
-**hhilbig/hhilbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am an assistant professor at UC Davis. Below is some information on replication files and data that are available on my GitHub.
 
-Here are some ideas to get you started:
+### Replication files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project on rent control](https://github.com/hhilbig/hhv_rent_control_replication), with Anselm Hager, Robert Vief
+- [Project on perceptions of future demographic change and support for democracy](https://github.com/hhilbig/democ_support_us), with Anselm Hager
+
+### GERDA project
+
+With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected data on German election results at the local level for various types of elections.
+
+- Main GitHub repo: <https://github.com/awiedem/german_election_data>
+- R package to access the data: <https://github.com/hhilbig/gerda>
