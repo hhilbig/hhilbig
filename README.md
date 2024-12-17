@@ -2,6 +2,8 @@
 
 Hi, I am an assistant professor at UC Davis. Below is some information on replication files and data that are available on my GitHub.
 
+For more information, see <hannohilbig.com> and my [Google Scholar](https://scholar.google.com/citations?user=JzQv9FMAAAAJ&hl=en&oi=ao) page
+
 If you have any questions about these or want to discuss research, please contact me at <hhilbig@ucdavis.edu>.
 
 ### Replication files
