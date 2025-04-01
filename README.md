@@ -18,6 +18,6 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected 
 - Main GitHub repo: <https://github.com/awiedem/german_election_data>
 - R package to access the data: <https://github.com/hhilbig/gerda>
 
-#### Other datasets
+### Other datasets
 
 - Self-reported Bundestag candidate occupations matched to KldB/ISCO codes (1980–2021, major parties, for about 50% of candidates): <https://github.com/hhilbig/candidate_occupations>
