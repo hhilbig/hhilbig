@@ -15,7 +15,7 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected 
 
 ### Other data sets
 
-- Municipality-level panel on broadband internet coverage in Germany, 2005-2021, using 2021 municipal borders. Note: this is a best-attempt effort, but due to lack of information on how the orginal data was created, this dataset may not be fully accurate. Changes in data providers also limit comparability before and after 2015.
+- Municipality-level panel on broadband internet coverage in Germany, 2005-2021, using 2021 municipal borders. Note: this is a best-attempt effort, but due to lack of information on how the orginal data was created, this dataset may not be fully accurate. Changes in data providers also limit comparability before and after 2015: <https://github.com/hhilbig/broadband>
 
 ### Replication files
 
