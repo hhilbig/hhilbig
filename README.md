@@ -23,3 +23,5 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected 
 - [Project on perceptions of future demographic change and support for democracy](https://github.com/hhilbig/democ_support_us), with Anselm Hager
 - [Project on petitions and housing construction in the GDR](https://github.com/hhilbig/gdr_housing_replication), with Hans Lueders and Sascha Riaz
 - [Project on controlled direct effects with panel data](https://github.com/hhilbig/did_cde_replication), with Matt Blackwell, Connor Halloran Phillips, Adam Glynn
+- [Project on automatic indoctrination](https://github.com/hhilbig/gdr_indoctrination_replication), with Sascha Riaz, Nourhan Elsayed, Daniel Ziblatt Glynn
+
