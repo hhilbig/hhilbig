@@ -22,4 +22,5 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected 
 - [Project on petitions and housing construction in the GDR](https://github.com/hhilbig/gdr_housing_replication), with Hans Lueders and Sascha Riaz
 - [Project on controlled direct effects with panel data](https://github.com/hhilbig/did_cde_replication), with Matt Blackwell, Connor Halloran Phillips, Adam Glynn
 - [Project on autocratic indoctrination](https://github.com/hhilbig/gdr_indoctrination_replication), with Sascha Riaz, Nourhan Elsayed, Daniel Ziblatt
+- [Project on the green transition](https://github.com/vincentheddesheimer/green_transition_replication), with Vincent Heddesheimer and Erik Voeten
 
