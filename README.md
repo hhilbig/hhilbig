@@ -13,8 +13,8 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected 
 
 ### Other data sets / projects
 
+- A multi-agent pipeline that provides a rigorous feedback for quantitative social science papers. <https://github.com/hhilbig/feedback_pipeline>
 - Municipality-level panel on broadband coverage in Germany (2005–2021), using 2021 borders. Due to limited documentation and provider changes in 2015, data may not be fully accurate or comparable over time. <https://github.com/hhilbig/broadband>
-- A multi-agent pipeline that simulates a rigorous academic review for quantitative social science papers using iterative critique, revision, and scoring. <https://github.com/hhilbig/feedback_pipeline>
 
 ### Replication files
 
