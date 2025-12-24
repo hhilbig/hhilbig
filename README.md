@@ -1,6 +1,6 @@
 Hi, I am an assistant professor at UC Davis. 
 
-My website is <https://www.hannohilbig.com>, and my [Google Scholar](https://scholar.google.com/citations?user=JzQv9FMAAAAJ&hl=en&oi=ao) page. You can contact me at <hhilbig@ucdavis.edu>.
+My website is <https://www.hannohilbig.com>. You can contact me at <hhilbig@ucdavis.edu>.
 
 ### GERDA project
 
