@@ -4,10 +4,12 @@ My website is <https://www.hannohilbig.com>. You can contact me at <hhilbig@ucda
 
 ### GERDA project
 
-With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart, we collected data on German election results at the local level for various types of elections.
+With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart. Coverage: Fine-grained German election results at federal, state, county (Kreistag), European Parliament, mayoral, and municipal elections (1953–2025, depending on the level).
 
 - Main GitHub repo: <https://github.com/awiedem/german_election_data>
-- R package to access the data: <https://github.com/hhilbig/gerda>
+- R package: <https://github.com/hhilbig/gerda>
+- Python package: <https://github.com/hhilbig/gerda-py>
+
 
 ### Other data sets / projects
 
