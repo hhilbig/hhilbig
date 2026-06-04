@@ -14,6 +14,7 @@ With Vincent Heddesheimer, Andreas Wiedemann, and Florian Sichart. Coverage: Fin
 ### Other data sets / projects
 
 - A multi-agent pipeline that provides feedback for quantitative social science papers. <https://github.com/hhilbig/feedback_pipeline>
+- A benchmark comparing local open-weight LLMs against commercial models on political science and social science text classification tasks. <https://github.com/hhilbig/polsci-open-bench>
 - Municipality-level panel on broadband coverage in Germany (2005–2021), using 2021 borders. Due to limited documentation and provider changes in 2015, data may not be fully accurate or comparable over time. <https://github.com/hhilbig/broadband>
 
 ### Replication files
