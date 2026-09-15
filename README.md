@@ -9,7 +9,9 @@ The German Election Database, with Vincent Heddesheimer, Andreas Wiedemann, and 
 
 * [Main repository](https://github.com/awiedem/german_election_data)
 * [R package](https://github.com/hhilbig/gerda)
+* [CRAN package](https://CRAN.R-project.org/package=gerda)
 * [Python package](https://github.com/hhilbig/gerda-py)
+* [PyPI package](https://pypi.org/project/gerda/)
 
 ### Other data and projects
 
