@@ -15,6 +15,7 @@ The German Election Database, with Vincent Heddesheimer, Andreas Wiedemann, and 
 
 ### Other data and projects
 
+* [CLARA](https://doi.org/10.7910/DVN/2KJSCO): A chapter-year panel of 2,635 local German party organizations, including leadership, issue emphasis, and 237,399 archived news articles from 2015–2025. [Documentation](https://www.hannohilbig.com/localparties/).
 * [Feedback Pipeline](https://github.com/hhilbig/feedback_pipeline): A multi-agent tool for reviewing quantitative social science papers.
 * [PolSci Open Bench](https://github.com/hhilbig/polsci-open-bench): A comparison of local open-weight LLMs and commercial models on social science text-classification tasks.
 * [German Broadband Data](https://github.com/hhilbig/broadband): Municipality-level broadband coverage in Germany, 2005–2021, using 2021 borders. Documentation gaps and a provider change in 2015 may affect accuracy and comparability over time.
