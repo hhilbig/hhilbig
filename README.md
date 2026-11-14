@@ -18,7 +18,7 @@ The German Election Database, with Vincent Heddesheimer, Andreas Wiedemann, and 
 * [CLARA](https://doi.org/10.7910/DVN/2KJSCO): Websites and news of 2,635 local German party chapters, 2015–2026. [Documentation](https://www.hannohilbig.com/localparties/).
 * [Candidate Websites](https://doi.org/10.7910/DVN/BZ2JRS): U.S. House (2018–2026) and Senate (2002–2026) campaign websites. [Code](https://github.com/hhilbig/candidate_website_extension).
 * [Mayoral Campaign Websites](https://doi.org/10.7910/DVN/IN9WCA): Candidates in the 100 largest U.S. cities, 2010–2026. [Code](https://github.com/hhilbig/mayoral-campaign-websites).
-* [Party Names and LLM Ratings](https://github.com/hhilbig/llm-party-names): Does naming a party shift LLM left-right ratings? A first look.
+* [Party Names and LLM Ratings](https://github.com/hhilbig/llm-party-names): Does naming a party shift LLM left-right ratings?
 * [Feedback Pipeline](https://github.com/hhilbig/feedback_pipeline): LLM comments on drafts of quantitative social science papers. In progress.
 * [PolSci Open Bench](https://github.com/hhilbig/polsci-open-bench): 43 open and commercial LLMs on 33 political science coding tasks. [Results](https://www.hannohilbig.com/llm-benchmark/).
 * [German Broadband Data](https://github.com/hhilbig/broadband): Municipal broadband coverage, 2005–2021, on 2021 borders. Use with care.
