@@ -19,7 +19,6 @@ The German Election Database, with Vincent Heddesheimer, Andreas Wiedemann, and 
 * [Candidate Websites](https://doi.org/10.7910/DVN/BZ2JRS): Campaign websites of U.S. House (2018–2026) and Senate (2002–2026) candidates. [Code](https://github.com/hhilbig/candidate_website_extension).
 * [Mayoral Campaign Websites](https://doi.org/10.7910/DVN/IN9WCA): Archived websites of mayoral candidates in the 100 largest U.S. cities, 2010–2026. [Code](https://github.com/hhilbig/mayoral-campaign-websites).
 * [Party Names and LLM Ratings](https://github.com/hhilbig/llm-party-names): Does naming a party shift LLM left-right ratings?
-* [Feedback Pipeline](https://github.com/hhilbig/feedback_pipeline): A multi-agent tool for reviewing quantitative social science papers. Work in progress.
 * [PolSci Open Bench](https://github.com/hhilbig/polsci-open-bench): A comparison of local open-weight LLMs and commercial models on text classification. [Results](https://www.hannohilbig.com/llm-benchmark/).
 * [German Broadband Data](https://github.com/hhilbig/broadband): Municipality-level broadband coverage in Germany, 2005–2021, using 2021 borders.
 
